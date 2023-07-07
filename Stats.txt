@@ -1,0 +1,20 @@
+Option 1:
+
+61.3% Malware Detection (4170/6796)
+1% False Safe Detection(9/900)
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Option 2:
+
+53.06% Malware Detection(3606/6796)
+0% False Safe Detection(0/900)
